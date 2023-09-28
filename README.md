@@ -25,9 +25,10 @@
   </p>
 
   <!-- GitHub Activity Graph -->
-  <p>
-    <img src="https://activity-graph.herokuapp.com/graph?username=soham2402&theme=react-dark" alt="GitHub Activity Graph">
-  </p>
+<!-- Showcase your recent activity -->
+<h2>Recent GitHub Activity</h2>
+<img src="https://activity-graph.herokuapp.com/graph?username=soham2402&theme=react-dark" alt="GitHub Activity Graph">
+
 
   <!-- Connect with Me section with social media links -->
   <h2>Connect with Me</h2>
