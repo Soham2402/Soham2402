@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello, I'm [Your Name] 👋</h1>
+  <h1>Hello, I'm Soham Hegde 👋</h1>
   <p>Self-Taught Fullstack Developer | CS Graduate Student | Systems Design Enthusiast</p>
   
   [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/soham2402)
@@ -27,10 +27,7 @@
   </p>
 
   <!-- Showcase your recent activity -->
-  <h2>Recent Activity</h2>
-  <p>
-    <img src="https://activity-graph.herokuapp.com/graph?username=soham2402&theme=react-dark" alt="GitHub Activity Graph">
-  </p>
+
 
   <!-- Connect with me -->
   <h2>Connect with Me</h2>
