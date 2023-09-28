@@ -27,7 +27,7 @@
   <!-- GitHub Activity Graph -->
 <!-- Showcase your recent activity -->
 <h2>Recent GitHub Activity</h2>
-<img src="https://activity-graph.herokuapp.com/graph?username=soham2402&theme=react-dark" alt="GitHub Activity Graph">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soham2402&bg_color=000000&color=67e8f9&line=67e8f9&point=81c1b9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
   <!-- Connect with Me section with social media links -->
