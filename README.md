@@ -6,7 +6,7 @@
   <!-- GitHub and Twitter badges -->
   <p>
     <a href="https://github.com/soham2402" target="_blank"><img src="https://img.shields.io/github/followers/soham2402?label=Follow&style=social" alt="GitHub followers"></a>
-    <a href="https://twitter.com/BratUnder" target="_blank"><img src="https://img.shields.io/twitter/follow/yourtwitterhandle?style=social" alt="Twitter Follow"></a>
+    <a href="https://twitter.com/BratUnder" target="_blank"><img src="https://img.shields.io/twitter/follow/BratUnder?style=social" alt="Twitter Follow"></a>
   </p>
 
   <!-- Introduction section -->
