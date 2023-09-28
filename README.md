@@ -1,7 +1,7 @@
 <!-- Center-aligned header -->
 <div  style="padding: 20px;">
   <h1 >Hello, I'm Soham Hegde 👋</h1>
-  <p>Self-Taught Fullstack Developer | CS Graduate Student | Systems Design Enthusiast</p>
+  <h2>Self-Taught Fullstack Developer | CS Graduate Student | Systems Design Enthusiast</p>
   
   <!-- GitHub and Twitter badges -->
   <p>
